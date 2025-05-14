@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PassMan</string>
+    <string name="passwordHeadline">Passwords</string>
+    <string name="AddPasswordButton">New Password</string>
+    <string name="GetPasswordButton">Copy Password</string>
+    <string name="LoginHeader">Login</string>
+    <string name="LoginButton">Login</string>
+    <string name="ResetButton">Reset</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Placeholder">PassMan</string>
+    <string name="ResetPass">Reset Master Password</string>
+</resources>
